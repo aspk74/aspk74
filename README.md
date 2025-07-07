@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 # Hi, I'm Anushka! 👋  
 Data Engineer | AI Enthusiast | Cloud Certified ☁️  
 
-About Me
+## About Me
 Curious and results-driven data engineer with over 3 years of experience designing and optimizing large-scale data systems across AWS and Azure.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspk74&layout=compact)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
 
 
 ## 🛠️ Skills
