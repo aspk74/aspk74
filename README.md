@@ -20,20 +20,31 @@ Data Engineer | AI Enthusiast | Cloud Certified ☁️
 ## About Me
 Curious and results-driven data engineer with over 3 years of experience designing and optimizing large-scale data systems across AWS and Azure.
 
+## 🛠️ Skills
+
+<!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+
+<!-- Cloud -->
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+<!-- Databases -->
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+<!-- Analytics -->
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+<!-- Frameworks & Tools -->
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694F?style=for-the-badge&logo=dbt-labs&logoColor=white)
+![Great Expectations](https://img.shields.io/badge/Great_Expectations-000000?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-
-
-
-## 🛠️ Skills
-Python • SQL • AWS • Spark • Airflow • Kafka • MLflow • Pandas • dbt • Redshift • ...
 
 ## 📂 Projects
 - 🔍 [Resume Analyzer using GPT & Gemini](https://github.com/yourusername/resume-analyzer) – An AI-powered resume matcher using RAG
