@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->![image](https://github.com/user-attachments/assets/1a913334-4f11-4e07-a39e-f4a2afe1557f)
-
+<img width="959" alt="Screenshot 2025-07-07 at 5 54 08 PM" src="https://github.com/user-attachments/assets/f1f2f5e4-9147-4bbe-b4ff-ca2ca5f40edc" />
 
 # Hi, I'm Anushka! 👋  
 Data Engineer | AI Enthusiast | Cloud Certified ☁️  
