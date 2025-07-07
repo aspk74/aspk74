@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **aspk74/aspk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fkeep-it-simple-letter-calligraphy-banner%2F384012742&psig=AOvVaw3QF9Ul9iFNzl2VYEALt0WC&ust=1752013575183000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCGlrHlq44DFQAAAAAdAAAAABAE" alt="banner" width="100%">
+![image](https://github.com/user-attachments/assets/ee820dfc-20a2-4e77-83c0-bbc8248bf3c1)
+
+# Hi, I'm Anushka! 👋  
+Data Engineer | AI Enthusiast | Cloud Certified ☁️  
+
+About Me
+Curious and results-driven data engineer with over 3 years of experience designing and optimizing large-scale data systems across AWS and Azure.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+
+## 🛠️ Skills
+Python • SQL • AWS • Spark • Airflow • Kafka • MLflow • Pandas • dbt • Redshift • ...
+
+## 📂 Projects
+- 🔍 [Resume Analyzer using GPT & Gemini](https://github.com/yourusername/resume-analyzer) – An AI-powered resume matcher using RAG
+- 🔮 [NFT Recommender](https://github.com/yourusername/nft-recommender) – Forecasted NFT price trends using GRU-RNN
+
+## 🏆 Certifications
+- AWS Cloud Practitioner (2025)
+- dbt Analytics Engineering Certified
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square)](https://yourportfolio.com)
+
+
 
