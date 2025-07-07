@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://github.com/user-attachments/assets/12c23644-b8a9-4848-902b-ae60485b982f)
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fkeep-it-simple-letter-calligraphy-banner%2F384012742&psig=AOvVaw3QF9Ul9iFNzl2VYEALt0WC&ust=1752013575183000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCGlrHlq44DFQAAAAAdAAAAABAE" alt="banner" width="100%">
+
