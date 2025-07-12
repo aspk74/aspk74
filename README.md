@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/1a913334-4f11-4e07-a39e-f4a2afe1557f)
 
 
-# Hi, I'm Anushka! 👋   
+# Hi, I'm Anushka! 👋     
 Data Engineering & Analytics Professional | AI Enthusiast | Cloud Certified ☁️  
 
 ## About Me
