@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/1a913334-4f11-4e07-a39e-f4a2afe1557f)
 
- 
 # Hi, I'm Anushka! 👋     
 Data Engineering & Analytics Professional | AI Enthusiast | Cloud Certified ☁️  
 
@@ -46,10 +44,11 @@ Curious and results-driven data engineer with over 3 years of experience designi
 
 
 ## 📂 Certifications
+* AWS Certified Data Engineer Associate (2026)
 * AWS Certified Cloud Practitioner (2025)
 * dbt Analytics Engineering Certified
 
-## :rocket: Socials
+## :rocket: Socials 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/asirpurkar)
 [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sirpurkaranushka7@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square)](https://aspk74.github.io/anushkasirpurkar.github.io/)
